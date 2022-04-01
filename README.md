@@ -1,1 +1,1 @@
-10-mirror readme
+12-directory readme
